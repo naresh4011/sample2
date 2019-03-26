@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2019-03-26T07:05:48Z" finished-at="2019-03-26T07:05:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2019-03-26T07:05:48Z" finished-at="2019-03-26T07:05:48Z">
+      <class name="samplepac.NewTest2">
+        <test-method status="PASS" signature="f2()[pri:0, instance:samplepac.NewTest2@1a23b66]" name="f2" duration-ms="0" started-at="2019-03-26T07:05:48Z" finished-at="2019-03-26T07:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+      </class> <!-- samplepac.NewTest2 -->
+      <class name="samplepac.NewTest1">
+        <test-method status="PASS" signature="f1()[pri:0, instance:samplepac.NewTest1@818063]" name="f1" duration-ms="0" started-at="2019-03-26T07:05:48Z" finished-at="2019-03-26T07:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+      </class> <!-- samplepac.NewTest1 -->
+      <class name="samplepac.NewTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:samplepac.NewTest@1f4f00f]" name="f" duration-ms="0" started-at="2019-03-26T07:05:48Z" finished-at="2019-03-26T07:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- samplepac.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
