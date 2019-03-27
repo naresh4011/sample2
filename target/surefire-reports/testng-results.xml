@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="173" started-at="2019-03-27T03:36:10Z" finished-at="2019-03-27T03:36:10Z">
+  <suite name="Suite" duration-ms="34" started-at="2019-03-27T04:10:19Z" finished-at="2019-03-27T04:10:19Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="173" started-at="2019-03-27T03:36:10Z" finished-at="2019-03-27T03:36:10Z">
+    <test name="Test" duration-ms="34" started-at="2019-03-27T04:10:19Z" finished-at="2019-03-27T04:10:19Z">
       <class name="samplepac.NewTest2">
-        <test-method status="PASS" signature="f2()[pri:0, instance:samplepac.NewTest2@1bd9247]" name="f2" duration-ms="7" started-at="2019-03-27T03:36:10Z" finished-at="2019-03-27T03:36:10Z">
+        <test-method status="PASS" signature="f2()[pri:0, instance:samplepac.NewTest2@1a23b66]" name="f2" duration-ms="6" started-at="2019-03-27T04:10:19Z" finished-at="2019-03-27T04:10:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f2 -->
       </class> <!-- samplepac.NewTest2 -->
       <class name="samplepac.NewTest1">
-        <test-method status="PASS" signature="f1()[pri:0, instance:samplepac.NewTest1@1c36524]" name="f1" duration-ms="0" started-at="2019-03-27T03:36:10Z" finished-at="2019-03-27T03:36:10Z">
+        <test-method status="PASS" signature="f1()[pri:0, instance:samplepac.NewTest1@818063]" name="f1" duration-ms="0" started-at="2019-03-27T04:10:19Z" finished-at="2019-03-27T04:10:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f1 -->
       </class> <!-- samplepac.NewTest1 -->
       <class name="samplepac.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:samplepac.NewTest@1417077]" name="f" duration-ms="0" started-at="2019-03-27T03:36:10Z" finished-at="2019-03-27T03:36:10Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:samplepac.NewTest@1f4f00f]" name="f" duration-ms="1" started-at="2019-03-27T04:10:19Z" finished-at="2019-03-27T04:10:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
